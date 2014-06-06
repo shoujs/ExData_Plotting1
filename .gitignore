@@ -1,1 +1,15 @@
 exdata-data-household_power_consumption.zip
+<<<<<<< HEAD
+household_power_consumption.txt
+# History files
+.Rhistory
+
+# Example code in package build process
+*-Ex.R
+
+# R data files from past sessions
+.Rdata
+
+.Rproj.user
+=======
+>>>>>>> e951b45512331dcb24b7a2b9fb314d2baba1f49f
